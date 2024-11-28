@@ -27,6 +27,8 @@ export interface ActionInterface {
     folderPath?: string;
     /** Whether to force-push or attempt to merge existing changes. */
     force?: boolean;
+    /** How many times to attempt to merge existing changes into the remote HEAD. */
+    attemptLimit?: number;
     /** Determines test scenarios the action is running in. */
     isTest: TestFlag;
     /** The git config name. */
