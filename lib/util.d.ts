@@ -32,3 +32,7 @@ export declare const extractErrorMessage: (error: unknown) => string;
  * Strips the protocol from a provided URL.
  */
 export declare const stripProtocolFromUrl: (url: string) => string;
+/**
+ * Gets the rsync version.
+ */
+export declare function getRsyncVersion(): string;
