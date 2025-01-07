@@ -9,28 +9,6 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/JamesIves/github-pages-deploy-action/actions">
-    <img src="https://github.com/JamesIves/github-pages-deploy-action/workflows/unit-tests/badge.svg" alt="Unit test status badge">
-  </a>
-  
-  <a href="https://github.com/JamesIves/github-pages-deploy-action/actions">
-    <img src="https://github.com/JamesIves/github-pages-deploy-action/workflows/integration-tests/badge.svg" alt="Integration test status badge">
-  </a>
-  
-  <a href="https://codecov.io/gh/JamesIves/github-pages-deploy-action/branch/dev">
-    <img src="https://codecov.io/gh/JamesIves/github-pages-deploy-action/branch/dev/graph/badge.svg" alt="Code coverage status badge">
-  </a>
-  
-  <a href="https://github.com/JamesIves/github-pages-deploy-action/releases">
-    <img src="https://img.shields.io/github/v/release/JamesIves/github-pages-deploy-action.svg?logo=github" alt="Release version badge">
-  </a>
-  
-  <a href="https://github.com/marketplace/actions/deploy-to-github-pages">
-    <img src="https://img.shields.io/badge/action-marketplace-blue.svg?logo=github&color=orange" alt="Github marketplace badge">
-  </a>
-</p>
-
-<p align="center">
   Automatically deploy your project to <a href="https://pages.github.com/">GitHub Pages</a> with <a href="https://github.com/features/actions">GitHub Actions</a>. This action can be configured to push your production-ready code into any branch you'd like, including <b>gh-pages</b> and <b>docs</b>. It can also handle cross repository deployments and works with <a href="https://github.com/enterprise">GitHub Enterprise</a> too.
 </p>
 
